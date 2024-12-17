@@ -1,0 +1,204 @@
+ 124  cd /
+  125  ls
+  126  cd home
+  127  ls
+  128  cd skacas
+  129  ls
+  130  cd Desktop
+  131  cd cloud
+  132  ls
+  133  cd cloud
+  134  cd Desktop
+  135  cd cloud
+  136  su nishaa
+  137  su nisha
+  138  sudo adduser niisha
+  139  sudo useradd nishaaa
+  140  sudo passwd nidhaaa
+  141  sudo passwd nishaaa
+  142  su nishaa
+  143  su nishaaa
+  144  nano scipt.sh
+  145  scipt.sh
+  146  chmod 755 script.sh
+  147  chmod 755 scipt.sh
+  148  chmod 755 script.sh
+  149  nano scipt.sh
+  150  ./ script.sh
+  151  chmod +777 script.sh
+  152  chmod +x script.sh
+  153  nano name.sh
+  154  chmod 777 name.sh
+  155  ./name.sh
+  156  nano colour.sh
+  157  chmod 777 script.sh
+  158  chmod 777 num.sh
+  159  ./ script.sh
+  160  nano colour.sh
+  161  chmod 777 num.sh
+  162  ./colour.sh
+  163  chmod  num.sh
+  164  chmod +x num.sh
+  165  chmod +x colour.sh
+  166  ./colour.sh
+  167  nano colour.sh
+  168  chmod +x colour.sh
+  169  ./colour.sh
+  170  nano colour.sh
+  171  ./colour
+  172  ./colour.sh
+  173  nano colour.sh
+  174  ./colour.sh
+  175  nano colour.sh
+  176  ./colour.sh
+  177  nano colour.sh
+  178  ./colour.sh
+  179  clear
+  180  ps
+  181  top
+  182  nano aa.sh
+  183  ./aa.sh
+  184  .nano aa.sh
+  185  nano aa.sh
+  186  ./aa.sh
+  187  nano aa.sh
+  188  ./aa.sh
+  189  4
+  190  ./aa.sh
+  191  chmod +x aa.sh
+  192  ./aa.sh
+  193  sudo apt update
+  194  sudo apt install git
+  195  git --version
+  196  history
+  197  cd /
+  198  ls
+  199  cd home
+  200  ls
+  201  cd administrator
+  202  ls
+  203  cd Desktop
+  204  ls
+  205  mkdir vpn_configs
+  206  cd vpn_configs
+  207  mkdir openvpn
+  208  mkdir ipsec
+  209  mkdir pptp
+  210  cd openvpn
+  211  touch server.conf
+  212  touch client.conf
+  213  cd ..
+  214  cd ipsec
+  215  touch server.conf
+  216  touch client.conf
+  217  cd ..
+  218  cd pptp
+  219  touch server.conf
+  220  touch client.conf
+  221  cd ..
+  222  pwd
+  223  mv /home/administratop/Desktop/vpn_configs/openvpn/server.conf home/administratop/Desktop/ipsec
+  224  mv /home/administratop/Deskto/vpn_configs/server.conf home/administratop/Desktop/openvpn
+  225  cd vpn_configs
+  226  cd ipsec
+  227  ipsec_config_old
+  228  mv server.conf ipsec_config_v2
+  229  cd ..
+  230  ls
+  231  cd ipsec
+  232  ls
+  233  cd ..
+  234  cd openvpn
+  235  ls
+  236  cd ..
+  237  cd pptp
+  238  ls
+  239  cd ..
+  240  touch vpn_server_cert.pem
+  241  cat > vpn_server_cert.pem
+  242  chmod 600 vpn_server_cert.pem
+  243  ls -l
+  244  cd ..
+  245  mkdir vpn_backup
+  246  cp -r /home/administratop/Desktop/vpn_configs/ipsec/home/administratop/Desktop/vpn_server_cert.pem
+  247  cp -r /home/administratop/Desktop/vpn_configs/ipsec/home /administratop/Desktop/vpn_server_cert.pem
+  248  cp -r /home/administrtor/Desktop/vpn_configs/ipsec /home /administratop/Desktop/vpn_server_cert.pem
+  249  cp -r /home/administrator/Desktop/vpn_configs/openvpn /home/administrator/Desktop/vpn_server_cert.pem
+  250  cp -r /home/administrator/Desktop/vpn_configs/openvpn /home/administrator/Desktop/vpn_backup
+  251  cd vpn_backup
+  252  ls
+  253  rm /home/administrator/Desktop/vpn_configs/pptp/server.conf
+  254  cd ..
+  255  cd vpn_configs
+  256  cd pptp
+  257  ls
+  258  cd vpn_configs
+  259  cd ..
+  260  rm /home/administrator/Desktop/vpn_configs/ipsec/client.conf
+  261  cd ..
+  262  cd vpn_configs
+  263  cd ipsec
+  264  ls
+  265  nano take.sh
+  266  ./ take.sh
+  267  chmod +x take.sh
+  268  ./ take.sh
+  269  ./take.sh
+  270  history
+  271  ll vpn_sever_cert.pim
+  272  ll vpn_server_cert.pem
+  273  cd ..
+  274  ll vpn_server_cert.pem
+  275  nano file.txt
+  276  vim file.txt
+  277  cd vpn_configs
+  278  history
+  279  cd /
+  280  cd home
+  281  ls
+  282  cd administrator
+  283  ls
+  284  cloud.cp
+  285  int.cp
+  286  vpn_server_cert.pem
+  287  cat > openvpn
+  288  grep "hello" openvpn
+  289  cd vpn_configs
+  290  cd /
+  291  ls
+  292  cd home
+  293  ls
+  294  cd administrator
+  295  ls
+  296  cd Desktop
+  297  cd vpn_configs
+  298  user1_configs
+  299  mkdir user1_configs
+  300  mkdir user2_configs
+  301  chmod 600 user1_configs
+  302  ls -l
+  303  chmod 666 user1_configs
+  304  ls -l
+  305  chmod 666 user2_configs
+  306  ls -l
+  307  nano file.sh
+  308  chmod 777 file.sh
+  309  ls -l
+  310  chmod +x file.sh
+  311  ./file.sh
+  312  nano file.sh
+  313  chmod +x file.sh
+  314  ./file.sh
+  315  ls
+  316  cd openvpn
+  317  ls
+  318  cd ipsec
+  319  cd ..
+  320  cd ipsec
+  321  ls
+  322  cd ..
+  323  cd pptp
+  324  ls
+  325  cd ..
+  326  history
+
